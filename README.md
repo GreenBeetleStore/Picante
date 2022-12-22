@@ -12,9 +12,13 @@
 
 ### Mise en service 
 
+Vous pouvez accéder à la <a href="https://greenbeetlestore.github.io/Picante/">page d'entrée 👈 ici</a>. Vous devrez suivre les étapes de mise en service ci-dessous, et créer un compte fictif pour utiliser l'application.
+
+· Cloner le dépôt, puis :
+
 · $ cd backend / <b>nodemon server</b>        =  Listening on port 3000 - Connexion à MongoDB réussie !
 
-· $ cd frontend / <b>npm run start</b>        =  ** Angular Live Development Server is listening on localhost: 4200, open your browser on http://localhost:4200/ **
+· $ cd frontend / <b>npm run start</b>        =  ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 · Date de réalisation: octobre 2022.
 
@@ -114,7 +118,7 @@ Vous pouvez collaborer, visiter, cloner ou l'utiliser pour votre propre apprenti
 
 ## Auteurs
 
-### Développement front-end : <a href="https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6">luc.bourrat</a>
+### Développement front-end initial reçu pour suivre la mission : <a href="https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6">luc.bourrat</a>
 <img src = "./imgReadme/Inici_00.png"/>
 
 <a href="https://openclassrooms.com/fr/paths/556/projects/676/assignment"> P6 - OpenClassrooms</a>.
