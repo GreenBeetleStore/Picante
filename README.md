@@ -14,7 +14,7 @@
 
 · $ cd backend / <b>nodemon server</b>        =  Listening on port 3000 - Connexion à MongoDB réussie !
 
-· $ cd frontend / <b>npm run start</b>        =  ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+· $ cd frontend / <b>npm run start</b>        =  ** Angular Live Development Server is listening on localhost: 4200, open your browser on http://localhost:4200/ **
 
 · Date de réalisation: octobre 2022.
 
